@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google)",
+    "[forbes.com](https://www.forbes.com)",
+    "[memeburn.com](https://memeburn.com)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com)",
+    "[fastcompany.com](https://www.fastcompany.com)",
+    "[businesswire.com](https://www.businesswire.com)"
+  ],
+  "design_plan": "rng=42; hero_math=max_width_1120px_2-3_lines_ok; AIDA=pass(attention,interest,desire,action); density_check=compare_grid_dense_true; label_sweep=all_competitors_present; button_contrast=black_white_pills_ok",
+  "generated_at": "2026-06-29T21:54:58.968860+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused niche landing page for local service businesses that need AI help with bookings, quotes, and customer replies. Built with Super\u2019s comparison\u2011page visual system, it shows how a personal AI agent that can operate real apps \u2014 and reuse a computer\u2011use cache \u2014 is better suited for repeated front\u2011office workflows than chat\u2011only assistants."
+}
